@@ -6,7 +6,7 @@ import styles from './styles';
 const Home = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Auberon</Text>
+      <Text style={styles.title}>Gulmarg</Text>
     </View>
   );
 };

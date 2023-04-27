@@ -15,6 +15,7 @@ module.exports = {
           '@reducers': './src/reducers',
           '@api': './src/api',
           '@localization': './src/localization',
+          '@hooks': './src/hooks',
         },
       },
     ],
